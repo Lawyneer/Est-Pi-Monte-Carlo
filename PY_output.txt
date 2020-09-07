@@ -1,0 +1,10 @@
+The estimate of Pi is:  3.1401869158878504
+The estimate of Pi is:  3.140006275494195
+The estimate of Pi is:  3.1404958677685952
+The estimate of Pi is:  3.1418181818181816
+The estimate of Pi is:  3.140740740740741
+The estimate of Pi is:  3.1403508771929824
+The estimate of Pi is:  3.140740740740741
+The estimate of Pi is:  3.141868512110727
+The estimate of Pi is:  3.141444114737883
+The estimate of Pi is:  3.1419945509437666
