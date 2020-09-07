@@ -2,6 +2,7 @@
 
 # Import packages and initialize variables
 import random # for the RNG
+random.seed() # Seed RNG with current system time
 
 for k in range(0,10):
     # Initialize variables for each loop
