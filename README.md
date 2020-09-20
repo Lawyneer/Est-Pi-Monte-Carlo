@@ -1,5 +1,5 @@
 # Est-Pi-Monte-Carlo
-Estimate Pi using Monte Carlo Methods
+Estimate Pi using Monte Carlo Methods using MATLAB or Python.
 
 I know this is a trival example to anybody that has studied Monte Carlo Methods/Simulations or coded with Matlab/Python/etc.
 
